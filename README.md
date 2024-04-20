@@ -6,6 +6,12 @@ This project aims to predict loan approval status using machine learning techniq
 
 The ability to accurately predict loan approval status is crucial for financial institutions to assess the risk associated with lending money. By leveraging machine learning algorithms, this project seeks to automate the loan approval process and improve decision-making efficiency.
 
+## **Overview**
+
+The Loan Approval Prediction project utilizes machine learning techniques to forecast the approval status of loan applications. In today's financial landscape, efficient and accurate loan approval processes are paramount for both financial institutions and applicants. By automating this process through predictive modeling, this project aims to streamline decision-making and enhance risk assessment.
+
+At its core, the project revolves around a dataset comprising diverse attributes related to loan applicants, including but not limited to income levels, credit histories, and employment statuses. Leveraging supervised learning methods, particularly the Naive Bayes algorithm, the project proceeds through several key stages to build and evaluate the predictive model.
+
 ## **Libraries**
 
 1. NumPy
