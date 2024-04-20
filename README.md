@@ -30,7 +30,7 @@ Splitting the dataset into input and output features.
 Dividing the data into training and testing sets for model evaluation.
 
 6. Normalizing Data:
-Applying standard scaler normalization to ensure uniformity in feature scaling.
+Applying StandardScaler normalization to ensure uniformity in feature scaling.
 
 7. Model Creation:
 Implementing a Naive Bayes (BernoulliNB) classification model.
